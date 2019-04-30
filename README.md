@@ -1,4 +1,4 @@
-#### JavaBuzz (FizzBuzz)
+# JavaBuzz (FizzBuzz)
 
 We were introduced to Javascript in Week 5 of Makers Academy. In order to learn a new language and test myself, I re-wrote the FizzBuzz program I had previously written in Ruby, in Javascript!
 
